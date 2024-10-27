@@ -1,0 +1,201 @@
+[
+    {
+        "id": 1,
+        "filter": "react",
+        "stack": "Сайт разработан на React",
+        "title": "iluma-store.ru",
+        "term": "Срок разработки: 30 дней",
+        "pricing": "Стоимость разработки: 150 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 2,
+        "filter": "web",
+        "stack": "Многостраничный сайт",
+        "title": "prof-54.ru",
+        "term": "Срок разработки: 14 дней",
+        "pricing": "Стоимость разработки: 70 000 руб",
+        "conversion": "Конверсия сайта: 53%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "filter": "react",
+        "stack": "Сайт разработан на React",
+        "title": "arhitek42.ru",
+        "term": "Срок разработки: 30 дней",
+        "pricing": "Стоимость разработки: 160 000 руб",
+        "conversion": "Конверсия сайта: 70%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 4,
+        "filter": "web",
+        "stack": "Многостраничный сайт",
+        "title": "veles-42.ru",
+        "term": "Срок разработки: 15 дней",
+        "pricing": "Стоимость разработки: 75 000 руб",
+        "conversion": "Конверсия сайта: 60%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "filter": "seo",
+        "stack": "Сайт с сео-оптимизацией",
+        "title": "magnesorb.ru",
+        "term": "Срок разработки: 15 дней",
+        "pricing": "Стоимость разработки: 75 000 руб",
+        "conversion": "Конверсия сайта: 60%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "filter": "graphic",
+        "stack": "Лендинг",
+        "term": "Срок разработки: 7 дней",
+        "title": "betonstroy54.ru",
+        "pricing": "Стоимость разработки: 50 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 7,
+        "filter": "other",
+        "stack": "Модернизированный сайт",
+        "term": "Срок разработки: 10 дней",
+        "title": "industry6.ru",
+        "pricing": "Стоимость разработки: 55 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 8,
+        "filter": "wp",
+        "stack": "Сайт на конструкторе",
+        "term": "Срок разработки: 7 дней",
+        "title": "acepta-70.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 9,
+        "filter": "react",
+        "stack": "Сайт разработан на React",
+        "term": "Срок разработки: 30 дней",
+        "title": "autofamily25.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 10,
+        "filter": "react",
+        "stack": "Сайт разработан на React",
+        "term": "Срок разработки: 30 дней",
+        "title": "tvoy3d.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 11,
+        "filter": "react",
+        "stack": "Сайт разработан на React",
+        "term": "Срок разработки: 30 дней",
+        "title": "tvoycomposite.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 12,
+        "filter": "wp",
+        "stack": "Сайт на конструкторе",
+        "term": "Срок разработки: 7 дней",
+        "title": "albion42.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 13,
+        "filter": "wp",
+        "stack": "Сайт на конструкторе",
+        "term": "Срок разработки: 7 дней",
+        "title": "elektroelite.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+
+    {
+        "id": 14,
+        "filter": "wp",
+        "stack": "Сайт на конструкторе",
+        "term": "Срок разработки: 7 дней",
+        "title": "logistic42.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 15,
+        "filter": "wp",
+        "stack": "Сайт на конструкторе",
+        "term": "Срок разработки: 7 дней",
+        "title": "nskfortuna.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 16,
+        "filter": "wp",
+        "stack": "Сайт на конструкторе",
+        "term": "Срок разработки: 7 дней",
+        "title": "premier42.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 17,
+        "filter": "wp",
+        "stack": "Сайт на конструкторе",
+        "term": "Срок разработки: 7 дней",
+        "title": "prof-cleaning42.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    },
+    {
+        "id": 18,
+        "filter": "wp",
+        "stack": "Сайт на конструкторе",
+        "term": "Срок разработки: 7 дней",
+        "title": "wermest.ru",
+        "pricing": "Стоимость разработки: 40 000 руб",
+        "conversion": "Конверсия сайта: 65%",
+        "url": "",
+        "description": ""
+    }
+]
